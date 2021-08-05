@@ -21,18 +21,16 @@ nav, div {
 
 ul {
   margin-left: 30px;
-  display: inline;
-  align-content: center;
+  display: flex;
 }
 
 ul li {
-  display: inline-block;
+  display: flex;
   height: 70px;
-  align-content: center;
+  align-items: center;
 }
 
 li {
-  padding-top: 25px;
   padding-right: 80px;
 }
 
